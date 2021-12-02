@@ -13,6 +13,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzoxploit&show_icons=true" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzoxploit&layout=compact)](https://github.com/dzoxploit/github-readme-stats)
 
 ### Languages/Frameworks Skills
 
