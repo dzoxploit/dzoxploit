@@ -5,7 +5,7 @@ My name Is didin nur yahya. I am sophomore computer science engineering basicly 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Study in Universitas Gunadarma 
-- 🌱 I’m currently learning C#, Go, Python, Automation Testing
+- 🌱 I’m currently learning C#, Go, Python
 - 👯 I’m looking to collaborate on Medical Application
 
 
