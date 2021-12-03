@@ -9,10 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Medical Application
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzoxploit&show_icons=true" />
-</a>
-
 ### Languages/Frameworks Skills
 
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/Tiththa/tiththa/blob/master/icons/Laravel.png" height="42"></a></code>
