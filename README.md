@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-My name Is didin nur yahya. I am sophomore computer science engineering basicly skills in Backend development, Web development, Desktop Apps Development and Quality Assurance Automation development
+My name Is didin nur yahya. I am sophomore computer science engineering basicly skills in Backend development, Web development, Desktop Apps Development, Test Engineer and newbie Android Developer
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Study in Universitas Gunadarma 
-- 🌱 I’m currently learning C#, Go, Python
-- 👯 I’m looking to collaborate on Medical Application
+- 🌱 I’m currently learning C#, Go, Python, Flutter
 
 
 ### Languages/Frameworks Skills
