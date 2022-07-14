@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name Is didin nur yahya. I am sophomore computer science engineering basicly skills in Backend development, Web development, Desktop Apps Development, Test Engineer and newbie Android Developer
+My name Is didin nur yahya. I am Final year student computer science engineering basicly skills in Backend development, Web development, Desktop Apps Development, Test Engineer and newbie Android Developer
 
 Here are some ideas to get you started:
 
