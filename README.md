@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![Header](./github-header-image.png)
-
 <br/>
-Final year CS Student Specialist in Backend development, Web development, Desktop Apps Development, Test Engineer And Generalist Android Developer
+Final year CS Student Specialist in Backend development, Web development, Java Developer, Test Engineer And Generalist Android Developer
 
 Here are some ideas to get you started:
 
