@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Didin Nur Yahya!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=37b6ff&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Fullstack+Developer+%7C+BPM+Workflow+Engineer;Passionate+about+AI%2C+Cloud%2C+and+Automation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=37b6ff&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Software+Engineer+%7C+Manufacture+,+Media+,+,+Financial+Technology;Passionate+about+AI%2C+AI%2C+and+SEO Optimization">
 </p>
 
 ---
