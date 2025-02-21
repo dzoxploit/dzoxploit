@@ -59,10 +59,6 @@
   </a>
 </p>
 
----
-
-## 🔥 Featured Projects  
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=dzoxploit&repo=repo-name&theme=chartreuse-dark)](https://github.com/dzoxploit/repo-name)  
 
 ---
 
