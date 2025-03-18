@@ -1,15 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Didin Nur Yahya!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=37b6ff&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Software+Engineer+%7C+Manufacture+%7C+Media+%7C+Financial+Technology;Passionate+about+AI%2C+Cloud%2C+and+SEO+Optimization;">
-</p>
-
-
 ---
 
 ## 🚀 About Me  
 - 🏢 **Software Engineer with Interest in AI And SEO Optimization **  
-- 💡 I specialize in **Next.js, Nuxt JS, Laravel, Spring boot, Golang, Python, MongoDB, SQL And Low Code Platform (Outsystem, Baiteda, Mendix)  **  
+- 💡 I Generalize in **Next.js, Nuxt JS, Laravel, Spring boot, Golang, Python, MongoDB, SQL And Low Code Platform (Outsystem, Baiteda, Mendix)  **  
 - 🔍 **Exploring AI and Cloud Computing**  
 - 📝 **Researcher in NLP, Sentiment Analysis, Image Processing**  
 
@@ -43,12 +37,6 @@
 ---
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <a href="http://github.com/dzoxploit">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dzoxploit&theme=chartreuse-dark&hide_border=true&border_radius=10&background=000000&fire=DD2727"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="http://github.com/dzoxploit">
