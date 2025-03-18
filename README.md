@@ -1,13 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Didin Nur Yahya!</h1>
----
 
 ## 🚀 About Me  
 - 🏢 **Software Engineer with Interest in AI And SEO Optimization **  
 - 💡 I Generalize in **Next.js, Nuxt JS, Laravel, Spring boot, Golang, Python, MongoDB, SQL And Low Code Platform (Outsystem, Baiteda, Mendix)  **  
 - 🔍 **Exploring AI and Cloud Computing**  
 - 📝 **Researcher in NLP, Sentiment Analysis, Image Processing**  
-
----
 
 ## 🛠 Tech Stack  
 
@@ -46,14 +43,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoxploit&layout=compact&theme=chartreuse-dark&langs_count=8" />
   </a>
 </p>
-
-
----
-
-## 🏆 Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dzoxploit&theme=onedark)](https://github.com/dzoxploit)
-
----
 
 ## 📬 Let's Connect  
 <p align="center">
